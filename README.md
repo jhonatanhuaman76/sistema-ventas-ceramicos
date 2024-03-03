@@ -3,10 +3,17 @@ Se implementó un sistema de ventas para la empresa Cerámicos del sol, que faci
 
 ## Tabla de contenidos
 - [Demo](#demo)
-- [Características](#caracteristisas)
+- [Características](#características)
 - [Instalación](#instalacion)
 - [Tecnologías](#tecnologias)
 - [Recursos Útiles](#recursos-utiles)
+
+## Características
+- IDE: Eclipse JEE 2022-12 R
+- JRE: JavaSE-1.8
+- Librerías:
+  - Flatlaf
+## Instalación
 
 ## Definición
 
