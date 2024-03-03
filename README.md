@@ -1,19 +1,30 @@
-# Sistema de Ventas Cerámicos del Sol
+<h1 align="center">Sistema de Ventas Cerámicos del Sol</h1>
 Se implementó un sistema de ventas para la empresa Cerámicos del sol, que facilita la gestión de los cerámicos (inventario), generación de reportes, realización de ventas y diversas configuraciones.
 
 ## Tabla de contenidos
-- [Demo](#demo)
-- [Características](#características)
-- [Instalación](#instalacion)
-- [Tecnologías](#tecnologias)
-- [Recursos Útiles](#recursos-utiles)
+- [Detalles del proyecto](#detalles-del-proyecto)
+- [Definición](#definición)
+  - [Login](#login)
+  - [Mennú Principal](#menú-principal)
+  - [Agregar Usuarios](#agregar-usuarios)
+  - [Eliminar Usuarios](#eliminar-usuarios)
+  - [Archivo](#archivo)
+  - [Mantenimiento](#mantenimiento)
+    - [Consultar Cerámico](#consultar-cerámico)
+    - [Modificar Cerámico](#modificar-cerámico)
+    - [Listar Cerámico](#listar-cerámico)
+  - [Ventas](#ventas)
+    - [Vender](#vender)
+    - [Generar Reportes](#generar-reportes)
+  - [Configuración](#configuración)
+    - [Configurar Obsequios](#configurar-obsequios)
+    - [Configurar Descuentos](#configurar-descuento)
+    - [Configurar Cuota Diaria](#configurar-cuota-diaria)
 
-## Características
-- IDE: Eclipse JEE 2022-12 R
-- JRE: JavaSE-1.8
-- Librerías:
-  - Flatlaf
-## Instalación
+## Detalles del proyecto
+- *Lenguaje de programación:* Java 8
+- *Librería utilizada:* Flatlaf
+- *Entorno de Desarrollo:* Eclipse JEE 2022-12 R
 
 ## Definición
 
