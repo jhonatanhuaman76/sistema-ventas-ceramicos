@@ -14,7 +14,8 @@ Se implementó un sistema de ventas para la empresa Cerámicos del sol, que faci
 - *Entorno de Desarrollo:* Eclipse JEE 2022-12 R
 
 ## Secciones del Proyecto
-- Login: Al abrir el programa, se mostrará el login para ingresar con nuestras credenciales de usuarios. Al ingresar correctamente se nos dirigirá al menú principal.
+- **Login**
+  Al abrir el programa, se mostrará el login para ingresar con nuestras credenciales de usuarios. Al ingresar correctamente se nos dirigirá al menú principal.
 - Menú principal
   - Agregar usuarios
   - Eliminar usuarios
