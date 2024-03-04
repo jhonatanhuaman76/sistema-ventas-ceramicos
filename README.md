@@ -1,37 +1,49 @@
 <h1 align="center">Sistema de Ventas Cerámicos del Sol</h1>
+
+![image](https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/c24f794c-be0e-4158-b0c6-0880ace181be)
+
 Se implementó un sistema de ventas para la empresa Cerámicos del sol, que facilita la gestión de los cerámicos (inventario), generación de reportes, realización de ventas y diversas configuraciones.
 
 ## Tabla de contenidos
 - [Detalles del proyecto](#detalles-del-proyecto)
 - [Definición](#definición)
-  - [Login](#login)
-  - [Mennú Principal](#menú-principal)
-  - [Agregar Usuarios](#agregar-usuarios)
-  - [Eliminar Usuarios](#eliminar-usuarios)
-  - [Archivo](#archivo)
-  - [Mantenimiento](#mantenimiento)
-    - [Consultar Cerámico](#consultar-cerámico)
-    - [Modificar Cerámico](#modificar-cerámico)
-    - [Listar Cerámico](#listar-cerámico)
-  - [Ventas](#ventas)
-    - [Vender](#vender)
-    - [Generar Reportes](#generar-reportes)
-  - [Configuración](#configuración)
-    - [Configurar Obsequios](#configurar-obsequios)
-    - [Configurar Descuentos](#configurar-descuento)
-    - [Configurar Cuota Diaria](#configurar-cuota-diaria)
 
 ## Detalles del proyecto
 - *Lenguaje de programación:* Java 8
 - *Librería utilizada:* Flatlaf
 - *Entorno de Desarrollo:* Eclipse JEE 2022-12 R
 
+## Secciones del Proyecto
+- Login: Al abrir el programa, se mostrará el login para ingresar con nuestras credenciales de usuarios. Al ingresar correctamente se nos dirigirá al menú principal.
+- Menú principal
+  - Agregar usuarios
+  - Eliminar usuarios
+  - Archivo
+    - Salir
+    - Cerrar sesión
+  - Mantenimiento
+    - Consultar cerámico
+    - Modificar cerámico
+    - Listar cerámicos
+  - Ventas
+    - Vender
+    - Generar reportes
+      - Ventas por modelo
+      - Comparación de precios con el precio promedio
+      - Comparación de cajas vendidas con la cantidad óptima
+      - Estadísticas sobre el precio
+  - Cofiguración
+    - Configurar descuentos
+    - Configurar obsequios
+    - Configurar cantidad óptima
+    - Configurar cantidad de cuota diaria
+  - Ayuda
+
 ## Definición
 
 ### Login
 Al abrir el programa, se mostrará el login para ingresar con nuestras credenciales de usuarios. Al ingresar correctamente se nos dirigirá al menú principal.
 
-![image](https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/c24f794c-be0e-4158-b0c6-0880ace181be)
 
 ### Menú Principal
 Esta ventana tiene la función de conectar a las demás ventanas del programa. A través de su menú lateral podremos acceder a los distintos paneles de nuestro programa.
