@@ -1,13 +1,14 @@
-<h1 align="center">Sistema de Ventas Cerámicos del Sol</h1>
+<div align="center">
+  <h1>
+    Sistema de Ventas Cerámicos del Sol
+    <br />
+    <br />
+    <img src="https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/c24f794c-be0e-4158-b0c6-0880ace181be" alt="login-sistema-ventas-ceramicos-del-sol">  
+  </h1>
+</div>
 
-![image](https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/c24f794c-be0e-4158-b0c6-0880ace181be)
-
+## Introducción
 Se implementó un sistema de ventas para la empresa Cerámicos del sol, que facilita la gestión de los cerámicos (inventario), generación de reportes, realización de ventas y diversas configuraciones.
-
-## Tabla de contenidos
-- [Detalles del proyecto](#detalles-del-proyecto)
-- [Secciones del proyecto](#secciones-del-proyecto)
-- [Recursos útiles](#recursos-útiles)
 
 ## Detalles del proyecto
 - **Lenguaje de programación:** Java 8
@@ -29,10 +30,6 @@ Se implementó un sistema de ventas para la empresa Cerámicos del sol, que faci
   - Ventas
     - Vender
     - Generar reportes
-      - Ventas por modelo
-      - Comparación de precios con el precio promedio
-      - Comparación de cajas vendidas con la cantidad óptima
-      - Estadísticas sobre el precio
   - Cofiguración
     - Configurar descuentos
     - Configurar obsequios
@@ -41,3 +38,7 @@ Se implementó un sistema de ventas para la empresa Cerámicos del sol, que faci
   - Ayuda
 
 ## Recursos útiles
+
+- [Adobe Express](https://new.express.adobe.com/) - Usado para crear los logos
+- [Unplash](https://unsplash.com/es) - Usado para obtener imágenes
+- [FlatiIcon](https://www.flaticon.com/) - Usado para obtener íconos
