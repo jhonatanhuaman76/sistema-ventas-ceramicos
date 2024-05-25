@@ -12,7 +12,7 @@ Se implementó un sistema de ventas para la empresa Cerámicos del sol, que faci
 
 ## Detalles del proyecto
 - **Lenguaje de programación:** Java 8
-- **Librería utilizada:** Flatlaf
+- **Librerías:** JavaSwing, Flatlaf
 - **Entorno de Desarrollo:** Eclipse JEE 2022-12 R
 
 ## Secciones del proyecto
