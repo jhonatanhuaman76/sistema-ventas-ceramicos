@@ -3,7 +3,7 @@
     Sistema de Ventas Cerámicos del Sol
     <br />
     <br />
-    <img src="https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/c24f794c-be0e-4158-b0c6-0880ace181be" alt="login-sistema-ventas-ceramicos-del-sol">  
+    <img src="https://github.com/jhonatanhuaman76/sistema-ventas-ceramicos/assets/132282558/f9957019-2562-40aa-824e-93aab09d3ea3" alt="login-sistema-ventas-ceramicos-del-sol">  
   </h1>
 </div>
 
